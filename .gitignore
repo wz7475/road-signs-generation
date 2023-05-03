@@ -1,7 +1,8 @@
 .idea
 .vscode
 __pycache__
-img
+real_img
 data
 *.pt
 *.pth
+*.jpg
