@@ -3,6 +3,5 @@
 __pycache__
 real_img
 data
-*.pt
-*.pth
+*.jpgs
 *.jpg
